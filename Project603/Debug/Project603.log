@@ -1,0 +1,5 @@
+﻿  603.c
+  game.c
+D:\visual studio programs\Project603\game.c(130,11): warning C4013: “rand”未定义；假设外部返回 int
+  正在生成代码...
+  Project603.vcxproj -> D:\visual studio programs\Project603\Debug\Project603.exe
