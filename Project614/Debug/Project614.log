@@ -1,0 +1,3 @@
+﻿  614.c
+D:\visual studio programs\Project614\614.c(98,97): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project614.vcxproj -> D:\visual studio programs\Project614\Debug\Project614.exe
